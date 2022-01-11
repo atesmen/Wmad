@@ -1,7 +1,7 @@
 ## OZAN ATESMEN
 
 HI EVERYONE I'M OZAN 23 
-![Image](photo.jpeg)
+![Image](photo.jpg)
 
 ### TURKEY
 

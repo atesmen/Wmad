@@ -1,7 +1,7 @@
 ## OZAN ATESMEN
 
 HI EVERYONE I'M OZAN 23 
-![Image](C:\Users\atesm\Downloads\WhatsApp Image 2022-01-01 at 12.44.28 PM.jpeg)
+![Image](C:\Users\atesm\OneDrive\Belgeler\GitHub\Wmad\WhatsApp Image 2022-01-01 at 12.44.28 PM.jpeg)
 
 ### TURKEY
 

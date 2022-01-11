@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## OZAN ATESMEN
 
-You can use the [editor on GitHub](https://github.com/atesmen/Wmad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+HI EVERYONE I'M OZAN 23 
+![Image](C:\Users\atesm\Downloads\WhatsApp Image 2022-01-01 at 12.44.28 PM.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### TURKEY
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I WAS BORN IN ISTANBUL, TURKEY 
 
 # Header 4
 ## Header 2
